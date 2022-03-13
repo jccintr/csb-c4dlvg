@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jccintr.github.io/csb-c4dlvg/static/css/main.9f62676d.chunk.css",
+    "main.js": "https://jccintr.github.io/csb-c4dlvg/static/js/main.4eae3419.chunk.js",
+    "main.js.map": "https://jccintr.github.io/csb-c4dlvg/static/js/main.4eae3419.chunk.js.map",
+    "runtime-main.js": "https://jccintr.github.io/csb-c4dlvg/static/js/runtime-main.63660003.js",
+    "runtime-main.js.map": "https://jccintr.github.io/csb-c4dlvg/static/js/runtime-main.63660003.js.map",
+    "static/js/2.77704b63.chunk.js": "https://jccintr.github.io/csb-c4dlvg/static/js/2.77704b63.chunk.js",
+    "static/js/2.77704b63.chunk.js.map": "https://jccintr.github.io/csb-c4dlvg/static/js/2.77704b63.chunk.js.map",
+    "index.html": "https://jccintr.github.io/csb-c4dlvg/index.html",
+    "static/css/main.9f62676d.chunk.css.map": "https://jccintr.github.io/csb-c4dlvg/static/css/main.9f62676d.chunk.css.map",
+    "static/js/2.77704b63.chunk.js.LICENSE.txt": "https://jccintr.github.io/csb-c4dlvg/static/js/2.77704b63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63660003.js",
+    "static/js/2.77704b63.chunk.js",
+    "static/css/main.9f62676d.chunk.css",
+    "static/js/main.4eae3419.chunk.js"
+  ]
+}
